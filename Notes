@@ -6,3 +6,13 @@
 6. npm install sass --save-dev
 7. npm install autoprefixer --save-dev
 8. yarn start
+
+
+
+
+
+Just in case issue
+warning " > @testing-library/user-event@13.5.0" has unmet peer dependency "@testing-library/dom@>=7.21.4".
+warning " > bootstrap@5.3.2" has unmet peer dependency "@popperjs/core@^2.11.8".
+warning "react-scripts > eslint-config-react-app > eslint-plugin-flowtype@8.0.3" has unmet peer dependency "@babel/plugin-syntax-flow@^7.14.5".
+warning "react-scripts > eslint-config-react-app > eslint-plugin-flowtype@8.0.3" has unmet peer dependency "@babel/plugin-transform-react-jsx@^7.14.9".       
