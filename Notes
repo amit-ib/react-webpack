@@ -1,0 +1,8 @@
+1. npx create-react-app my-app --template typescript
+2. npm install eslint eslint-plugin-react eslint-plugin-react-hooks --save-dev
+3. Create .eslintrc.js and added commands in it
+4. npm install react-router-dom
+5. npm install react-bootstrap bootstrap
+6. npm install sass --save-dev
+7. npm install autoprefixer --save-dev
+8. yarn start
